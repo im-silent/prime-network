@@ -140,7 +140,7 @@ function displayLeaderboard(playerData) {
             const gameDiv = document.createElement('div');
             gameDiv.className = 'game-info';
             const gameImg = document.createElement('img');
-            gameImg.src = `images/${gameType}.pvg`;
+            gameImg.src = `images/${gameType}.png`;
             gameImg.alt = gameType;
             gameImg.className = 'game-icon';
             gameDiv.appendChild(gameImg);
