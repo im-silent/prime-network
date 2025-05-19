@@ -32,7 +32,7 @@
                 const button = document.createElement('button');
                 button.className = 'button';
                 
-                if (tier.toLowerCase() === 'sword') {
+                if (tier.toLowerCase() === 'shovel') {
                     button.className += ' active';
                 }
                 
@@ -56,7 +56,7 @@
             fetch('tiers/sword.txt')
                 .then(response => response.text())
                 .then(data => {
-                    const crystalMatch = data.match(/\[sword\]([\s\S]*?)(?=\[|$)/i);
+                    const crystalMatch = data.match(/\[shovel\]([\s\S]*?)(?=\[|$)/i);
                     if (!crystalMatch) {
                         processTierData(data);
                     } else {
