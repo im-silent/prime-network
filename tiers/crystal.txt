@@ -1,13 +1,17 @@
 [CRYSTAL]
 HT1
 
+
 LT1
+Flame
 
 HT2
 
 LT2
 
+
 HT3
+
 
 LT3
 Royaleee
@@ -16,8 +20,6 @@ HT4
 MEGEND
 
 LT4
-sp6der
-zevohhh
 oppkila
 JooCPVP
 Nglcg
@@ -26,5 +28,8 @@ Hycronixizg
 HT5
 morcah
 nytsom
+bestoflndia
+k1dp1nk
 
 LT5
+
